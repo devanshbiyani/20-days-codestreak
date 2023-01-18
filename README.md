@@ -8,3 +8,5 @@ Day 03-[Output]()
 Day 04-[Output](https://devanshbiyani.github.io/20-days-codestreak/Guess%20the%20number/)
 <br />
 Day 05-[Output](https://devanshbiyani.github.io/20-days-codestreak/To%20do%20list/)
+<br />
+Day 06-[Output](https://devanshbiyani.github.io/20-days-codestreak/Weight%20converter/)
