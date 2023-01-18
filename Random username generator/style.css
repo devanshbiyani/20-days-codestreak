@@ -1,13 +1,13 @@
 #username-form {
-  margin: 0 auto;
-  width: 300px;
-  text-align: center;
-}
-
-#generated-username {
-  margin: 10px auto;
-  width: 300px;
-  text-align: center;
-  font-size: 24px;
-}
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+  }
   
+  #generated-username {
+    margin: 10px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 24px;
+  }
+    
