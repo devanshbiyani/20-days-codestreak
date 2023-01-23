@@ -39,4 +39,9 @@
   #reset-button:hover {
     background-color: #3e8e41; /* set a background color for the button on hover */
   }
+  #game-container {
+    width: 300px;
+    height: 600px;
+    margin: 50px auto;
+  }
   
