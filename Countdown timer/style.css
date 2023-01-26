@@ -1,0 +1,29 @@
+#timer {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px auto;
+  }
+  
+  input[type="number"] {
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
