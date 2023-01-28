@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #game {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  #wordView, #remaining, #message {
+    margin: 20px;
+  }
+  
+  #guessInput, #guessButton {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  #wordView, #message {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  #remaining {
+    font-size: 18px;
+  }
+  
+  #message {
+    color: #555;
+  }
+  
+  #message.win {
+    color: green;
+  }
+  
+  #message.lose {
+    color: red;
+  }
+  
+  #hangmanImg {
+    width: 100%;
+  }
+  
