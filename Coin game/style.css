@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #E6ECF0;
+}
+
+#game {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+#heads, #tails {
+  width: 100px;
+  height: 100px;
+  display: none;
+}
+
+button {
+  background-color: #1DA1F2;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+p {
+  font-size: 18px;
+  margin-top: 20px;
+}
